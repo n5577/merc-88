@@ -1,0 +1,7 @@
+<b>MERC-88</b> will serve as the portable basic ML Agent stack for specialized, reasoning retrieval tools which can operate in small to medium scale business and home environments. 
+
+<h5>Roadmap to 0.1</h5>
+*refine python module list
+*define current scope
+*clear prompts for user variables, set before running retrieval or file handling operations
+*files should be formatted on the fly, (ebook, plaintext, pdf)
